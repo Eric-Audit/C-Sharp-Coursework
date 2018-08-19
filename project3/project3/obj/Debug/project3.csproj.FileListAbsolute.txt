@@ -1,0 +1,10 @@
+C:\Users\Standard\Desktop\C#\project3\project3\obj\Debug\project3.csprojResolveAssemblyReference.cache
+C:\Users\Standard\Desktop\C#\project3\project3\obj\Debug\project3.color_mixer.resources
+C:\Users\Standard\Desktop\C#\project3\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\Standard\Desktop\C#\project3\project3\obj\Debug\project3.csproj.GenerateResource.Cache
+C:\Users\Standard\Desktop\C#\project3\project3\obj\Debug\project3.csproj.CoreCompileInputs.cache
+C:\Users\Standard\Desktop\C#\project3\project3\bin\Debug\project3.exe.config
+C:\Users\Standard\Desktop\C#\project3\project3\bin\Debug\project3.exe
+C:\Users\Standard\Desktop\C#\project3\project3\bin\Debug\project3.pdb
+C:\Users\Standard\Desktop\C#\project3\project3\obj\Debug\project3.exe
+C:\Users\Standard\Desktop\C#\project3\project3\obj\Debug\project3.pdb
